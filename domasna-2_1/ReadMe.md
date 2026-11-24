@@ -1,7 +1,6 @@
-# Домашна 2 ООП
+# Домашна  ООП
 # Homework — 21.10.2026
 
-To complete the homework, it **must be uploaded to your OOP repository on GitHub**.
 
 ## Tasks
 
